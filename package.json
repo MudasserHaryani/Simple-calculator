@@ -1,6 +1,6 @@
 {
   "name": "mharyani24-single-command-line-calculator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple calculator with typescript, node.js and inquirer",
   "main": "index.js",
   "type": "module",
